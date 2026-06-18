@@ -29,7 +29,7 @@ const RegistrationForm = () => {
 
       const response = await axios.post(
 
-        "http://localhost:5001/api/enquiry",
+        "https://workshop-landing-page-7y8e.onrender.com/api/enquiry",
 
         form
 
